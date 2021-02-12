@@ -12,7 +12,7 @@ Pf3D7_05_v3:109,898..111,691 (Negative strand)
 **Protein:** 597 aa
 
 ## Synonym
-*No data*
+Ring-stage Membrane Protein 1 (RMP1)
 
 ### Accesion
 **DNA:** XM_001351547.1  
