@@ -42,9 +42,9 @@ GPI anchor (465-486 aa)
 ### Reported Data
 #### SNPs
 ---
-Non-Coding SNPs: *No data*
-NonSynonymus SNPs: *No data*
-Synonymus SNPs: *No data*
+Non-Coding SNPs: *No data*  
+NonSynonymus SNPs: *No data*  
+Synonymus SNPs: *No data*  
 SNPs with STOP Codons: *No data*
 
 #### Epitopes from IEDB
