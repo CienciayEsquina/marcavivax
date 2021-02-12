@@ -11,6 +11,9 @@ Pf3D7_05_v3:109,898..111,691 (Negative strand)
 **DNA:** 1794 bp  
 **Protein:** 597 aa
 
+## Synonym
+*No data*
+
 ### Accesion
 **DNA:** XM_001351547.1  
 **Protein:** XP_001351583.1
